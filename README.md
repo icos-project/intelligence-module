@@ -47,11 +47,11 @@ This work has been performed as part of the Intelligence layer of the EU HORIZON
 
 Below is a list of related documentation sections to help you navigate the Intelligence Layer and its capabilities:
 
-1. [**API Documentation**](api.md)  
-2. [**Backend Services**](backend.md)
-3. [**Deployment Guide**](deployment.md)  
-4. [**Usage**](usage.md)  
-5. [**Development & Contribution**](development.md)  
+1. [**API Documentation**](https://icos-project.eu/docs/Developer/Components/intelligence-module/api/)  
+2. [**Backend Services**](https://icos-project.eu/docs/Developer/Components/intelligence-module/backend/)
+3. [**Deployment Guide**](https://icos-project.eu/docs/Developer/Components/intelligence-module/deployment/)  
+4. [**Usage**](https://icos-project.eu/docs/Developer/Components/intelligence-module/usage/)  
+5. [**Development & Contribution**](https://icos-project.eu/docs/Developer/Components/intelligence-module/development/)  
 
 ## License
 
